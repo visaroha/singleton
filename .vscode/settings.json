@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "*h*h*hexception": "cpp",
+        "*h*htypeinfo": "cpp",
+        "new": "cpp"
+    }
+}
